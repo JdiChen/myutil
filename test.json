@@ -1,0 +1,15 @@
+{
+  "name": name,
+  "setup": stup,
+  "steps": [
+    {
+      "stpe1": ste1
+    },
+    {
+      "stpe1": step2
+    }
+  ],
+  "asser": assert,
+  "teardown": teardown
+
+}

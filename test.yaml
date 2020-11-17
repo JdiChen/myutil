@@ -1,0 +1,53 @@
+- "test_name": 1
+  "setup": stup
+  "steps":
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+  "asser": assert,
+  "teardown": teardown
+
+- "test_name": 2
+  "setup": stup
+  "steps":
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+  "asser": assert,
+  "teardown": teardown
+
+- "test_name": 3
+  "setup": stup
+  "steps":
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+    - "step_name": ste1
+      "location_method": text
+      "location_str": Contacts
+      "action": click
+  "asser": assert,
+  "teardown": teardown
